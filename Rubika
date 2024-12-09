@@ -1,0 +1,13 @@
+pkg install git -y
+
+pkg install python -y
+
+git clone https://github.com/filtering-rubika-ryson/anti-report
+
+cd anti-report
+
+chmod 777 *
+
+python anti.py
+
+09924626536
